@@ -9,10 +9,10 @@
 pip install -r requirements.txt
 
 2. Запустите скрипт:
-python pnr.py
+python - pnr.py
 
 ### Запуск в Windows 
-Для запуска в Windows используйте готовый `.exe` файл в папке `dist`.
+Для запуска в Windows используйте готовый `.exe` файл называется `pnr.exe`
 
 ## Требования
 - Windows 10/11
